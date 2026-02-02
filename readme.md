@@ -1,21 +1,26 @@
 
 AI Financial Health Assessment Platform for SMEs
 
-Live Demo:https://drive.google.com/file/d/1nPiZ1Jaj6oZA_dar6CsQR5v_dFE1GUNz/view?usp=sharing
+Live Demo: https://drive.google.com/file/d/1nPiZ1Jaj6oZA_dar6CsQR5v_dFE1GUNz/view?usp=sharing
 
 Deployed App:-
+
 frontend: https://financial-health-tool-ivory.vercel.app/
+
 backend: https://dashboard.render.com/web/srv-d6047cpr0fns73eo02mg/deploys/dep-d6047cpr0fns73eo02sg
 
 GitHub Repo: https://github.com/firoz2903/financial-health-ai
 
 Problem Statement:
+
 Small and Medium Enterprises struggle to understand financial health, predict risks, and evaluate creditworthiness. Manual financial analysis is slow and expensive.
 
 Solution:
+
 We built an AI-powered platform that analyzes financial statements automatically and provides risk scores, credit predictions, dashboards, and recommendations.
 
 Key Features:
+
 • Smart Dashboard with KPIs and charts
 • Upload PDF/Excel reports
 • AI-based risk analysis
