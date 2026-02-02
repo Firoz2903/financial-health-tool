@@ -18,7 +18,7 @@ export default function App() {
     const f = new FormData();
     f.append("file", file);
 
-    const r = await fetch(`http://127.0.0.1:8000/analyze?lang=${lang}`, {
+    const r = await fetch(`https://financial-health-backend.onrender.com/analyze?lang=${lang}`, {
       method: "POST",
       body: f
     });
