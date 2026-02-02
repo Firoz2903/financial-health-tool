@@ -1,0 +1,38 @@
+# ==============================
+# FastAPI backend
+# ==============================
+fastapi
+uvicorn
+python-multipart
+
+# ==============================
+# Data processing
+# ==============================
+pandas
+numpy
+
+# ==============================
+# PDF parsing (upload support)
+# ==============================
+pdfplumber
+
+# ==============================
+# AI (Claude / Anthropic)
+# ==============================
+anthropic
+
+# ==============================
+# PDF report export
+# ==============================
+reportlab
+
+# ==============================
+# HTTP requests (future APIs)
+# ==============================
+requests
+
+# ==============================
+# Database (PostgreSQL ready)
+# ==============================
+sqlalchemy
+psycopg2-binary
