@@ -29,7 +29,7 @@ export default function App() {
   return (
     <div style={{ padding: "30px", fontFamily: "Arial", background:"#f6f8fb" }}>
 
-      <h1>📊 Financial Health Dashboard</h1>
+      <h1>📊 Financial Health Assesment Tool</h1>
 
       <input type="file" onChange={e => setFile(e.target.files[0])} />
       <button onClick={upload}>Analyze</button>
