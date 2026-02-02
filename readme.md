@@ -3,6 +3,8 @@ AI Financial Health Assessment Platform for SMEs
 
 Live Demo:
 Deployed App:
+frontend: https://financial-health-tool-ivory.vercel.app/
+backend: https://dashboard.render.com/web/srv-d6047cpr0fns73eo02mg/deploys/dep-d6047cpr0fns73eo02sg
 Demo Video: 
 GitHub Repo: https://github.com/firoz2903/financial-health-ai
 
