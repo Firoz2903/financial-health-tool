@@ -161,9 +161,17 @@ export default function App() {
 
         {/* ================= EXPORT ================= */}
         <div className="card">
-          <button onClick={()=>fetch("http://127.0.0.1:8000/export")}>
-            📄 Export PDF Report
-          </button>
+         <button
+  onClick={() =>
+    window.open(
+      "https://financial-health-tool-k33v.onrender.com/export",
+      "_blank"
+    )
+  }
+>
+  📄 Export PDF Report
+</button>
+
         </div>
 
         </>
