@@ -47,10 +47,14 @@ def export_report():
     filename = create_report(last_result)
 
     return FileResponse(
-        filename,
-        media_type="application/pdf",
-        filename="financial_report.pdf"
-    )
+    filename,
+    media_type="application/pdf",
+    filename="financial_report.pdf",
+    headers={
+        "Content-Disposition": "attachment; filename=financial_report.pdf"
+    }
+)
+
 
 
 # =============================
